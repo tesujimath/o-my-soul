@@ -2,8 +2,7 @@
 title: About
 description: O my Soul
 date: "2024-05-13"
-image: "TODO.jpg"
-license: Text by Simon Guest CC BY-NC-ND 4.0, Avatar by [John Jennings on Unsplash](https://unsplash.com/photos/I_kGNSAqD-8)
+license: Text by Simon Guest CC BY-NC-ND 4.0, Avatar by [Tengyart on Unsplash](https://unsplash.com/photos/red-heart-shaped-on-white-surface-n79UFWxrOtY)
 lastmod: "2024-01-05T16:15:00+13:00"
 menu:
     main:
@@ -12,9 +11,12 @@ menu:
             icon: user
 ---
 
-To be completed.
+_O my Soul_ is words of encouragement for anyone who has chosen to surrender their life to Jesus⸺for anyone on that long journey of dying to self and living wholly for the Lord, loving him and loving those he brings onto our path.
 
-- the [scripture index](/ref/)
-- the [topic index](/tags/)
-- the [search page](/search/)
-- start at [the beginning](/peace-and-provision/) and read everything in sequence
+In some ways these words are merely a continuation of [Letters to Amy](https://letterstoamy.org), my gift of love and encouragement to that faithful servant of the Lord, written while she was living in a jungle village in Papua New Guinea, and since having returned to New Zealand.  I found such grace and blessing for my own heart from the Lord even as I wrote, that I find I have to continue here.
+
+There is such joy in this surrendered life, but it can be hard, and it can be lonely.  So here is encouragement to persevere and to walk worthy.  May the Lord bless each one who comes this way.
+
+{{< quote source="Matthew 16:24-25" >}}
+Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it.”
+{{< /quote >}}

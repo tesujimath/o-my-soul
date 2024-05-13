@@ -30,10 +30,10 @@ params:
         lastUpdated: 2 Jan 2006 15:04 MST
 
     sidebar:
-        subtitle: Words of encouragement for my own soul
+        subtitle: Words of encouragement for the soul
         avatar:
             local: true
-            src: img/john-jennings-I_kGNSAqD-8-unsplash.jpg
+            src: img/tengyart-n79UFWxrOtY-unsplash.jpg
 
     article:
         math: false
