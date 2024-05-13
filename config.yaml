@@ -1,0 +1,121 @@
+baseurl: https://omysoul.faith
+languageCode: en-gb
+theme: hugo-theme-stack
+paginate: 10
+title: O my Soul
+
+#googleAnalytics:
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
+DefaultContentLanguage: en
+
+permalinks:
+    post: /:slug/
+    page: /:slug/
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon:
+
+    footer:
+        since: 2024
+        customText:
+
+    dateFormat:
+        published: 2 Jan 2006
+        lastUpdated: 2 Jan 2006 15:04 MST
+
+    sidebar:
+        subtitle: Words of encouragement for my own soul
+        avatar:
+            local: true
+            src: img/john-jennings-I_kGNSAqD-8-unsplash.jpg
+
+    article:
+        math: false
+        toc: true
+        readingTime: false
+        nextRelated: true
+        license:
+            enabled: true
+            default: Licensed under CC BY-NC-ND 4.0
+
+    #tagCount: true
+
+    comments:
+        enabled: false
+
+    widgets:
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+
+        archives:
+            limit: 5
+
+        tagCloud:
+            limit: 10
+
+    opengraph:
+        twitter:
+            # Your Twitter username
+            site:
+
+            # Available values: summary, summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: false
+            src:
+
+    colorScheme:
+        # Display toggle
+        toggle: true
+
+        # Available values: auto, light, dark
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+### Custom menu
+### See https://docs.stack.jimmycai.com/configuration/custom-menu
+### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: -100
+          params:
+              icon: home
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+markup:
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+    # allow for line breaks in tables:
+    goldmark:
+      renderer:
+        unsafe: true

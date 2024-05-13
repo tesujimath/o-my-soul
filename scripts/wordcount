@@ -1,0 +1,19 @@
+#!/usr/bin/env nu
+
+def wordcount [text] {
+    echo $text | str replace -m --all '(?s){{< *quote.*?{{< */quote *>}}' '' | str replace -m --all '\n+' ' ' | str replace -m --all ' +' ' ' | str replace -m '^ ' '' | str replace -m ' $' '' | split row ' ' | length
+}
+
+let counts = (ls content/post/**/*.md |
+  each { |path|
+    open $path.name --raw |
+      decode utf-8 |
+      parse --regex '(?s)\+\+\+(?P<header>.*?)\+\+\+(?P<body>.*)' |
+      get 0 |
+      do { { header: ($in.header | from toml) body: $in.body } } |
+      do { { title: $in.header.title date: (echo $in.header.date | into datetime) count: (wordcount $in.body) } } } |
+      sort-by -r date)
+
+print $counts
+
+$counts | get count | math sum | do { print "TOTAL: " $in }

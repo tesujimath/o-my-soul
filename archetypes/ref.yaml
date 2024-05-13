@@ -1,0 +1,8 @@
+title: Scripture Index
+aliases:
+  - /scripture-index
+menu:
+    main:
+        weight: -65
+        params:
+            icon: book

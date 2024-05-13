@@ -1,0 +1,6 @@
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/tesujimath/hugo-theme-stack.git
+[submodule "buildtools"]
+	path = buildtools
+	url = https://github.com/tesujimath/letters-to-amy.buildtools.git
