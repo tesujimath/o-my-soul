@@ -3,7 +3,7 @@ title: About
 description: O my Soul
 date: "2024-05-13"
 license: Text by Simon Guest CC BY-NC-ND 4.0, Avatar by [Tengyart on Unsplash](https://unsplash.com/photos/red-heart-shaped-on-white-surface-n79UFWxrOtY)
-lastmod: "2024-01-05T16:15:00+13:00"
+lastmod: "2024-05-13T16:15:00+12:00"
 menu:
     main:
         weight: -90
