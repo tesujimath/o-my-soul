@@ -13,6 +13,7 @@ menu:
 **Old Testament**
 |  |  |  |  |
 | --- | --- | --- | --- |
+| [Ex]({{<relref "/ref/exodus" >}}) | [Ps]({{<relref "/ref/psalms" >}}) | [Is]({{<relref "/ref/isaiah" >}}) |
 
 **New Testament**
 |  |  |  |  |

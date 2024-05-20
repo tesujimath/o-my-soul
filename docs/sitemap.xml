@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omysoul.faith/about/</loc>
-    <lastmod>2024-05-13T16:15:00+12:00</lastmod>
+    <loc>https://omysoul.faith/tags/faithfulness/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/hope/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/hope-in-god/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/post/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/</loc>
+    <lastmod>2024-05-21T07:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/about/</loc>
     <lastmod>2024-05-13T16:15:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/page/</loc>
@@ -16,10 +31,14 @@
   </url><url>
     <loc>https://omysoul.faith/categories/</loc>
   </url><url>
+    <loc>https://omysoul.faith/ref/exodus/</loc>
+  </url><url>
+    <loc>https://omysoul.faith/ref/isaiah/</loc>
+  </url><url>
+    <loc>https://omysoul.faith/ref/psalms/</loc>
+  </url><url>
     <loc>https://omysoul.faith/ref/</loc>
   </url><url>
     <loc>https://omysoul.faith/search/</loc>
-  </url><url>
-    <loc>https://omysoul.faith/tags/</loc>
   </url>
 </urlset>
