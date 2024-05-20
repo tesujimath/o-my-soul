@@ -25,13 +25,13 @@ Here is a man who used to live a life of affirmation and exaltation. But things 
 As with a deadly wound in my bones, my adversaries taunt me, while they say to me all the day long, “Where is your God?”
 {{< /quote >}}
 
-And furthermore, O my soul, does the Lord seem to have withdrawn? Are you no longer enjoying that intimacy, the sweetness of his felt presence in your life? Nor was the psalmist. But the desire for that had not left him.
+Or perhaps, O my soul, does the Lord seem to have withdrawn? Are you no longer enjoying that intimacy, the sweetness of his felt presence in your life? Nor was the psalmist. But the desire for that had not left him.
 
 {{< quote source="Psalm 42:2-3" url="/ref/psalms" >}}
 My soul thirsts for God, for the living God. When shall I come and appear before God? My tears have been my food day and night, while they say to me all the day long, “Where is your God?”
 {{< /quote >}}
 
-The multitude keeping festival, those privileged and self-satisfied ones, had closed ranks, and he was no longer among them. It seemed to him that God himself had passed him by, forgotten him, rejected him. He was oppressed, scorned, and despised.
+The multitude keeping festival, those privileged and self-satisfied ones, had closed ranks, and he was no longer among them. And it seemed to him that God himself had passed him by, forgotten him, rejected him. He was oppressed, scorned, and despised.
 
 Is there any hope? Is anything to be done?
 
@@ -81,7 +81,7 @@ Then Moses stretched out his hand over the sea, and the LORD drove the sea back 
 Thus the LORD saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore. Israel saw the great power that the LORD used against the Egyptians, so the people feared the LORD, and they believed in the LORD and in his servant Moses.
 {{< /quote >}}
 
-This song must be the refrain of your life: the habit of remembering who the Lord is and what he has done. It is the habit of remembering as you do the dishes, as you drive to work, and as you grapple with the challenges of life. It is the habit of remembering the God of your life and the great power that he uses to rescue those he loves. Dwell in that, my soul.
+This song must be the refrain of your life: the habit of remembering who the Lord is and what he has done. It is the habit of remembering as you do the dishes, as you drive to work, as you grapple with the challenges of life. It is the habit of remembering the God of your life and the great power that he uses to rescue those he loves. Dwell in that, my soul.
 
 And do not underestimate the discipline and determination required to sing this song, to make it the habit of your life, but this you must do, single-mindedly, doggedly, courageously.  It is a matter of life and death. Take your eyes off yourself, look to the Lord and hope in him.  There is no other.
 
