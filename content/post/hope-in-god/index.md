@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Hope in God"
-date = "2024-05-21T07:15:00+12:00"
+date = "2024-05-21T07:00:00+12:00"
 description = "For there is no other"
 tags = [ "hope", "faithfulness" ]
 image = "jeremy-bishop-DLICfSD33as-unsplash.jpg"
