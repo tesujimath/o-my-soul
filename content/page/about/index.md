@@ -20,3 +20,5 @@ There is such joy in this surrendered life but it can be hard and it can be lone
 {{< quote source="Matthew 16:24-25" >}}
 Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it.”
 {{< /quote >}}
+
+All Scripture references are quoted from the ESV unless otherwise indicated.
