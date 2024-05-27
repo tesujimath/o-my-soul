@@ -5,6 +5,7 @@ date = "2024-05-21T07:00:00+12:00"
 description = "For there is no other"
 tags = [ "hope", "faithfulness" ]
 image = "jeremy-bishop-DLICfSD33as-unsplash.jpg"
+image_anchor = "Bottom"
 image_position = "50% 100%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jeremy Bishop on Unsplash](https://unsplash.com/photos/person-sitting-on-black-surface-looking-to-sky-DLICfSD33as)"
 +++
