@@ -3,6 +3,7 @@ author = "Simon Guest"
 title = "Hope in God"
 date = "2024-05-21T07:00:00+12:00"
 description = "For there is no other"
+podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/665814a12c976d0012500de4.m4a", type = "audio/aac" }
 tags = [ "hope", "faithfulness" ]
 image = "jeremy-bishop-DLICfSD33as-unsplash.jpg"
 image_anchor = "Bottom"
