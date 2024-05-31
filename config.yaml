@@ -33,7 +33,7 @@ params:
         subtitle: Words of encouragement for the soul
         avatar:
             local: true
-            src: img/tengyart-n79UFWxrOtY-unsplash.jpg
+            src: img/o-my-soul.jpg
 
     article:
         math: false
