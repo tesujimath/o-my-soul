@@ -13,9 +13,11 @@ menu:
 **Old Testament**
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [Ex]({{<relref "/ref/exodus" >}}) | [1 Kgs]({{<relref "/ref/1-kings" >}}) | [Ps]({{<relref "/ref/psalms" >}}) | [Is]({{<relref "/ref/isaiah" >}}) |
+| [Ex]({{<relref "/ref/exodus" >}}) | [Josh]({{<relref "/ref/joshua" >}}) | [1 Kgs]({{<relref "/ref/1-kings" >}}) | [Ps]({{<relref "/ref/psalms" >}}) |
+| [Is]({{<relref "/ref/isaiah" >}}) | [Hab]({{<relref "/ref/habakkuk" >}}) |
 
 **New Testament**
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [Mt]({{<relref "/ref/matthew" >}}) | [Jn]({{<relref "/ref/john" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
+| [Mt]({{<relref "/ref/matthew" >}}) | [Jn]({{<relref "/ref/john" >}}) | [Rom]({{<relref "/ref/romans" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) |
+| [Rev]({{<relref "/ref/revelation" >}}) |
