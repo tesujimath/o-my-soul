@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "That was yesterday"
-date = "2024-06-05T07:00:00+12:00"
+date = "2024-06-04T07:00:00+12:00"
 description = "What happened?"
 tags = [ "hope", "promise", "expectation", "disappointment" ]
 image = "istrfry-marcus-NX0WjgdQl58-unsplash.jpg"
