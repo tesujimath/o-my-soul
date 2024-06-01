@@ -22,3 +22,5 @@ Then Jesus told his disciples, “If anyone would come after me, let him deny hi
 {{< /quote >}}
 
 All Scripture references are quoted from the ESV unless otherwise indicated.
+
+_O my Soul_ is also available as a podcast.
