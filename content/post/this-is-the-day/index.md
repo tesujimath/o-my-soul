@@ -3,6 +3,7 @@ author = "Simon Guest"
 title = "This is the day!"
 date = "2024-05-28T07:00:00+12:00"
 description = "Expect great things in it"
+podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/665a6e7fe9a55800114a36ba.m4a", type = "audio/aac" }
 tags = [ "promise", "hope", "faithfulness", "expectation" ]
 image = "robert-lukeman-_RBcxo9AU-U-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Robert Lukeman on Unsplash](https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U)"
