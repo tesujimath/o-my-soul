@@ -3,6 +3,7 @@ author = "Simon Guest"
 title = "That was yesterday"
 date = "2024-06-04T07:00:00+12:00"
 description = "What happened?"
+podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/665bfec5650f0e00116187ff.m4a", type = "audio/aac" }
 tags = [ "hope", "promise", "expectation", "disappointment" ]
 image = "istrfry-marcus-NX0WjgdQl58-unsplash.jpg"
 image_position = "50% 100%"
@@ -73,7 +74,7 @@ Isaiah tells us that the Lord acts. Not that he will act, or even that he did ac
 
 And what is it that he is doing?
 
-Habbakuk knows and it cannot be told.
+Habbakuk knows and it cannot be told. The Lord himself declares it.
 
 {{< quote source="Habakkuk 1:5" url="/ref/habakkuk" >}}
 “Look among the nations, and see; wonder and be astounded. For I am doing a work in your days that you would not believe if told.”
