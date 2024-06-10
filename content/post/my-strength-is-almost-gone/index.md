@@ -5,8 +5,11 @@ date = "2024-06-11T06:30:00+12:00"
 description = "How can I carry on?"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/66653351b6f3d9001223d4b6.m4a", type = "audio/aac" }
 tags = [ "weariness", "exhaustion", "endurance", "hope" ]
-image = "alex-wigan-55NtMvzOsFQ-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Alex Wigan on Unsplash](https://unsplash.com/photos/silhouette-of-bird-in-flight-55NtMvzOsFQ)"
+image = "todd-trapani-v2Jf_jpNamc-unsplash.jpg"
+image_anchor = "Center"
+image_position_list = "50% 35%"
+image_position_article = "50% 25%"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Todd Trapani on Unsplash](https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc)"
 +++
 
 O my soul,
