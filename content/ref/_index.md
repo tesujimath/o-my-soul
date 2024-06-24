@@ -20,5 +20,6 @@ menu:
 **New Testament**
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [Mt]({{<relref "/ref/matthew" >}}) | [Lk]({{<relref "/ref/luke" >}}) | [Jn]({{<relref "/ref/john" >}}) | [Rom]({{<relref "/ref/romans" >}}) |
-| [Phil]({{<relref "/ref/philippians" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
+| [Mt]({{<relref "/ref/matthew" >}}) | [Mk]({{<relref "/ref/mark" >}}) | [Lk]({{<relref "/ref/luke" >}}) | [Jn]({{<relref "/ref/john" >}}) |
+| [Rom]({{<relref "/ref/romans" >}}) | [1 Cor]({{<relref "/ref/1-corinthians" >}}) | [Phil]({{<relref "/ref/philippians" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) |
+| [Rev]({{<relref "/ref/revelation" >}}) |
