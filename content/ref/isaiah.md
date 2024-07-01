@@ -11,4 +11,5 @@ description: "Scripture index"
 | 43:1,3-4,6-7 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
 | 46:9-11 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
 | 50:10 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
+| 58:10-11 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 64:1,4 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
