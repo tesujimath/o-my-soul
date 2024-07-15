@@ -5,6 +5,7 @@ date = "2024-07-02T06:00:00+12:00"
 description = "That which blocks the springs of life"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/667bd0f40d0708c096ba9e0f.m4a", type = "audio/aac" }
 tags = [ "disappointment", "pain", "forgiveness" ]
+related = [ "/post/what-to-think-about/index.md" ]
 image = "vlad-d-5j6tOZ4LdN4-unsplash.jpg"
 image_position_article = "50% 100%"
 image_position_list = "50% 85%"
