@@ -16,7 +16,7 @@ menu:
 | [Gen]({{<relref "/ref/genesis" >}}) | [Ex]({{<relref "/ref/exodus" >}}) | [Josh]({{<relref "/ref/joshua" >}}) | [2 Sam]({{<relref "/ref/2-samuel" >}}) |
 | [1 Kgs]({{<relref "/ref/1-kings" >}}) | [Job]({{<relref "/ref/job" >}}) | [Ps]({{<relref "/ref/psalms" >}}) | [Prv]({{<relref "/ref/proverbs" >}}) |
 | [Is]({{<relref "/ref/isaiah" >}}) | [Jer]({{<relref "/ref/jeremiah" >}}) | [Ezk]({{<relref "/ref/ezekiel" >}}) | [Joel]({{<relref "/ref/joel" >}}) |
-| [Hab]({{<relref "/ref/habakkuk" >}}) |
+| [Hab]({{<relref "/ref/habakkuk" >}}) | [Zeph]({{<relref "/ref/zephaniah" >}}) |
 
 **New Testament**
 |  |  |  |  |
