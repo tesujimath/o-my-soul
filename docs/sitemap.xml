@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omysoul.faith/tags/faithfulness/</loc>
-    <lastmod>2024-08-06T06:00:00+12:00</lastmod>
+    <loc>https://omysoul.faith/tags/complacency/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/consuming-fire/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/fear-of-the-lord/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/humility/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/locusts/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/</loc>
-    <lastmod>2024-08-06T06:00:00+12:00</lastmod>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/post/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/</loc>
+    <lastmod>2024-08-13T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/faithfulness/</loc>
     <lastmod>2024-08-06T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/rescue/</loc>
     <lastmod>2024-08-06T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-answer/</loc>
-    <lastmod>2024-08-06T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/</loc>
     <lastmod>2024-08-06T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-turning-point/</loc>
@@ -186,5 +201,7 @@
     <loc>https://omysoul.faith/ref/</loc>
   </url><url>
     <loc>https://omysoul.faith/search/</loc>
+  </url><url>
+    <loc>https://omysoul.faith/ref/zephaniah/</loc>
   </url>
 </urlset>
