@@ -10,3 +10,4 @@ description: "Scripture index"
 | 3:16-18 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 6:28-29 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 7:37-39 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
+| 12:23-26 <br/> 13:36-38 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
