@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 4:12-13 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 4:14-16 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
 | 9:24-26 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
 | 10:23 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
