@@ -7,8 +7,8 @@ on:
       - edited
       - synchronize
   schedule:
-    # Monday 5.53pm UTC
-    - cron: '53 17 * * 1'
+    # Thursday 5.53pm UTC
+    - cron: '53 17 * * 4'
 
 jobs:
   merge_schedule:
