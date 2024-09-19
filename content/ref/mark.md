@@ -7,4 +7,5 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 5:36 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
+| 7:20-23 | [Repent!<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/repent/index.md" >}}) |
 | 12:28-31 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
