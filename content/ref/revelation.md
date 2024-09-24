@@ -11,5 +11,8 @@ description: "Scripture index"
 | 2:1-5,7 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 2:8-11 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
 | 2:11,18-23 | [Repent!<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/repent/index.md" >}}) |
-| 5:11-12 <br/> 19:11 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
+| 3:1-4 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
+| 5:11-12 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
+| 7:9-10,13-14 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 19:11 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
+| 19:11 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
