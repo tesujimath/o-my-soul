@@ -12,3 +12,4 @@ description: "Scripture index"
 | 7:37-39 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 10:7-10 | [The open door<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/the-open-door/index.md" >}}) |
 | 12:23-26 <br/> 13:36-38 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
+| 13:34-35 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
