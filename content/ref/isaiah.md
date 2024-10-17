@@ -15,4 +15,5 @@ description: "Scripture index"
 | 58:1-3,6-7 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
 | 58:10-11 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 61:1,8 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
+| 61:1-3 | [Cosmic power<span style="font-size:smaller; padding-left:0.5em;">#22</span>]({{<relref "/post/cosmic-power/index.md" >}}) |
 | 64:1,4 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
