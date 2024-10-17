@@ -20,4 +20,5 @@ description: "Scripture index"
 | 119:9-11 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 119:17-18,21-22 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 119:25-32,75 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
+| 147:1-6 | [Cosmic power<span style="font-size:smaller; padding-left:0.5em;">#22</span>]({{<relref "/post/cosmic-power/index.md" >}}) |
 | 147:11 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
