@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 4:1-2,4-5,7-8 | [Be angry<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/be-angry/index.md" >}}) |
 | 4:4-5 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 12:2,6 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 13:1-6 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
