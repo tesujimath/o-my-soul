@@ -10,6 +10,7 @@ description: "Scripture index"
 | 12:2 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 40:31 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 43:1,3-4,6-7 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
+| 43:16-19 <br/> 46:8-11 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 46:9-11 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
 | 50:10 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
 | 58:1-3,6-7 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
