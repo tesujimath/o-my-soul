@@ -7,6 +7,7 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:17 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
+| 9:2,6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 12:2 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 40:31 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 43:1,3-4,6-7 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
