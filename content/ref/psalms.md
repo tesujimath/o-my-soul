@@ -11,6 +11,7 @@ description: "Scripture index"
 | 12:2,6 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 13:1-3,5-6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 13:1-6 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
+| 19:7-11 | [Open your own eyes<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/open-your-own-eyes/index.md" >}}) |
 | 25:10 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 25:10 <br/> 26:1-3 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
 | 31:9-10 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
@@ -22,6 +23,7 @@ description: "Scripture index"
 | 118:14 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 118:24 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 118:5 <br/> 119:25-27,29-30 | [The answer<span style="font-size:smaller; padding-left:0.5em;">#12</span>]({{<relref "/post/the-answer/index.md" >}}) |
+| 119:1-5,129-133 | [Open your own eyes<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/open-your-own-eyes/index.md" >}}) |
 | 119:9-11 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 119:17-18,21-22 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 119:25-32,75 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
