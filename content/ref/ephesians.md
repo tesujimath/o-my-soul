@@ -11,3 +11,4 @@ description: "Scripture index"
 | 2:8-9 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 3:20-21 | [The open door<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/the-open-door/index.md" >}}) |
 | 4:26-27 | [Be angry<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/be-angry/index.md" >}}) |
+| 6:12 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |

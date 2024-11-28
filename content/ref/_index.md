@@ -24,4 +24,4 @@ menu:
 | [Mt]({{<relref "/ref/matthew" >}}) | [Mk]({{<relref "/ref/mark" >}}) | [Lk]({{<relref "/ref/luke" >}}) | [Jn]({{<relref "/ref/john" >}}) |
 | [Rom]({{<relref "/ref/romans" >}}) | [1 Cor]({{<relref "/ref/1-corinthians" >}}) | [2 Cor]({{<relref "/ref/2-corinthians" >}}) | [Eph]({{<relref "/ref/ephesians" >}}) |
 | [Phil]({{<relref "/ref/philippians" >}}) | [Col]({{<relref "/ref/colossians" >}}) | [1 Tim]({{<relref "/ref/1-timothy" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) |
-| [Jam]({{<relref "/ref/james" >}}) | [1 Jn]({{<relref "/ref/1-john" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
+| [Jam]({{<relref "/ref/james" >}}) | [1 Pet]({{<relref "/ref/1-peter" >}}) | [1 Jn]({{<relref "/ref/1-john" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
