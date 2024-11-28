@@ -12,6 +12,7 @@ description: "Scripture index"
 | 2:8-11 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
 | 2:11,18-23 | [Repent!<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/repent/index.md" >}}) |
 | 3:1-4 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
+| 3:10-11 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |
 | 3:14-22 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
 | 3:7-10,20 <br/> 4:1-3 | [The open door<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/the-open-door/index.md" >}}) |
 | 5:11-12 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |

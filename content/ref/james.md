@@ -6,4 +6,5 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 1:2-4 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |
 | 2:14-18 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
