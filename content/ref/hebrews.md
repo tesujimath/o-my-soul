@@ -13,4 +13,5 @@ description: "Scripture index"
 | 10:36 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 11:35-37 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
 | 12:1-3 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
+| 12:7,11 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
 | 12:28-29 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
