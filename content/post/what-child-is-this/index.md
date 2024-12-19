@@ -61,7 +61,7 @@ O my soul, you must be Mary.
 “Behold, I am the servant of the Lord; let it be to me according to your word.”
 {{< /quote >}}
 
-So in hope and faith and with a surrendered heart, let us ask why and how. Why would the Creator God of the Universe and Lord of All choose such a risky and apparently fragile plan? And how could this helpless baby change everything?
+So in hope and faith and with a surrendered heart, let us ask why and how. Why would the Creator God of the Universe and Lord of All choose such an apparently risky and fragile plan? And how could this helpless baby change everything?
 
 Why?
 
@@ -73,7 +73,7 @@ And the angel answered her ...
 “For nothing will be impossible with God.”
 {{< /quote >}}
 
-Is this not God demonstrating exactly this, revealing his great power made perfect in weakness? He is absolutely the God of the impossible. O my soul, he is the God of your own impossible. Consider even this one thing.
+Is this not God demonstrating exactly this, revealing his great power made perfect in weakness? He is absolutely the God of the impossible. O my soul, he is the God of [your own impossible](https://letterstoamy.org/impossible/). Consider even this one thing.
 
 Here we have a helpless newborn baby and a tyrant king out to kill him.
 
