@@ -20,3 +20,4 @@ description: "Scripture index"
 | 11:32-36 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 12:23-26 <br/> 13:36-38 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
 | 13:34-35 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
+| 19:16-18,25 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |
