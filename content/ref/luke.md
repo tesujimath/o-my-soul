@@ -15,5 +15,6 @@ description: "Scripture index"
 | 15:10 | [Repent!<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/repent/index.md" >}}) |
 | 17:11-19 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
 | 18:1,14,16-17,22-25,27,31-33,35-43 | [What do you want me to do for you?<span style="font-size:smaller; padding-left:0.5em;">#34</span>]({{<relref "/post/what-do-you-want-me-to-do-for-you/index.md" >}}) |
+| 18:1-8 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 21:19 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 24:45-47 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |

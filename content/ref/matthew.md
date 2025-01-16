@@ -15,4 +15,5 @@ description: "Scripture index"
 | 7:21-23 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
 | 7:7 <br/> 9:27-30 | [What do you want me to do for you?<span style="font-size:smaller; padding-left:0.5em;">#34</span>]({{<relref "/post/what-do-you-want-me-to-do-for-you/index.md" >}}) |
 | 9:27-30 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
+| 13:10-17 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 25:31-46 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
