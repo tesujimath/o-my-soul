@@ -4,7 +4,7 @@ title = "What do you want me to do for you?"
 date = "2025-01-10T06:00:00+13:00"
 description = "Do you believe that I am able to do this?"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/677f84e05d46b524b059ef92.m4a", type = "audio/aac" }
-tags = [ "faith", "trust", "impossible", "transformation", "prayer" ]
+tags = [ "faith", "trust", "impossible", "healing", "deliverance", "transformation", "prayer" ]
 image = "jj-ying-9Qwbfa_RM94-unsplash.jpg"
 image_position_list = "50% 80%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [JJ Ying on Unsplash](https://unsplash.com/photos/mt-fuji-japan-9Qwbfa_RM94)"
