@@ -15,6 +15,7 @@ description: "Scripture index"
 | 5:2-9 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 6:28-29 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 7:37-39 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
+| 7:37-39 | [The river of life<span style="font-size:smaller; padding-left:0.5em;">#37</span>]({{<relref "/post/the-river-of-life/index.md" >}}) |
 | 8:2-11 | [Do not be angry<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/do-not-be-angry/index.md" >}}) |
 | 8:12 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 10:7-10 | [The open door<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/the-open-door/index.md" >}}) |
