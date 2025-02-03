@@ -7,6 +7,7 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:16 | [Cosmic power<span style="font-size:smaller; padding-left:0.5em;">#22</span>]({{<relref "/post/cosmic-power/index.md" >}}) |
+| 2:8-9,15-17 <br/> 3:1-7,17,22-24 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
 | 3:22-24 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 12:1,7 | [The answer<span style="font-size:smaller; padding-left:0.5em;">#12</span>]({{<relref "/post/the-answer/index.md" >}}) |
 | 22:7-8 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
