@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The healing of the nations"
 date = "2025-02-14T06:00:00+13:00"
 description = "By the leaves of the tree of life"
-podcast = { url = "", type = "audio/aac" }
+podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/67b6e11aa95b41529ff7143a.m4a", type = "audio/aac" }
 tags = [ "healing", "power", "fear of the Lord" ]
 image = "simon-berger-9Ct73yKbpEo-unsplash.jpg"
 image_position_list = "50% 50%"
