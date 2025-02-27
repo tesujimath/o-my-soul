@@ -15,4 +15,5 @@ description: "Scripture index"
 | 12:1-3 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 12:2 | [The river of life<span style="font-size:smaller; padding-left:0.5em;">#37</span>]({{<relref "/post/the-river-of-life/index.md" >}}) |
 | 12:7,11 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
+| 12:14 | [Approaching holiness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/approaching-holiness/index.md" >}}) |
 | 12:28-29 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
