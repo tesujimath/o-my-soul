@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 3:3 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 4:1-2,4-5,7-8 | [Be angry<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/be-angry/index.md" >}}) |
 | 4:4-5 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
 | 8:2 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |
@@ -14,10 +15,12 @@ description: "Scripture index"
 | 13:1-3,5-6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 13:1-6 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
 | 19:7-11 | [Open your own eyes<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/open-your-own-eyes/index.md" >}}) |
+| 24:7-10 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 25:10 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 25:10 <br/> 26:1-3 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
 | 31:7-8 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |
 | 31:9-10 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
+| 31:23 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 31:23-24 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 37:5 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 37:5 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
@@ -28,6 +31,7 @@ description: "Scripture index"
 | 66:10-12 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
 | 78:11-22,31 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
 | 103:1-5 | [New mercy<span style="font-size:smaller; padding-left:0.5em;">#33</span>]({{<relref "/post/new-mercy/index.md" >}}) |
+| 113:4-9 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 116:1-4,15-17 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
 | 118:14 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 118:24 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
