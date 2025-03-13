@@ -4,7 +4,7 @@ title = "The perils of worldliness"
 date = "2025-03-14T06:00:00+13:00"
 description = "And its tendency to compromise wholehearted love for the Lord"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/67d29948288f0479394c728f.m4a", type = "audio/aac" }
-tags = [ "worldliness", "compromise", "integrity" ]
+tags = [ "worldliness", "compromise", "integrity", "complacency" ]
 image = "engin-akyurt-pFv815lYZwc-unsplash.jpg"
 image_position_list = "50% 85%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [engin akyurt on Unsplash](https://unsplash.com/photos/city-skyline-during-night-time-pFv815lYZwc)"
