@@ -11,6 +11,7 @@ description: "Scripture index"
 | 6:16 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 6:22-23 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 7:14-15,21-25 | [Approaching holiness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/approaching-holiness/index.md" >}}) |
+| 7:15-25 <br/> 8:1-6,10-11 | [Humbled by stumbling<span style="font-size:smaller; padding-left:0.5em;">#44</span>]({{<relref "/post/humbled-by-stumbling/index.md" >}}) |
 | 8:15 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 8:23-25 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
 | 8:24-25 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
