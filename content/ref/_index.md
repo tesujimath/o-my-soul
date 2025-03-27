@@ -13,12 +13,12 @@ menu:
 **Old Testament**
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [Gen]({{<relref "/ref/genesis" >}}) | [Ex]({{<relref "/ref/exodus" >}}) | [Lev]({{<relref "/ref/leviticus" >}}) | [Josh]({{<relref "/ref/joshua" >}}) |
-| [1 Sam]({{<relref "/ref/1-samuel" >}}) | [2 Sam]({{<relref "/ref/2-samuel" >}}) | [1 Kgs]({{<relref "/ref/1-kings" >}}) | [1 Chr]({{<relref "/ref/1-chronicles" >}}) |
-| [2 Chr]({{<relref "/ref/2-chronicles" >}}) | [Job]({{<relref "/ref/job" >}}) | [Ps]({{<relref "/ref/psalms" >}}) | [Prv]({{<relref "/ref/proverbs" >}}) |
-| [Is]({{<relref "/ref/isaiah" >}}) | [Jer]({{<relref "/ref/jeremiah" >}}) | [Lam]({{<relref "/ref/lamentations" >}}) | [Ezk]({{<relref "/ref/ezekiel" >}}) |
-| [Joel]({{<relref "/ref/joel" >}}) | [Hab]({{<relref "/ref/habakkuk" >}}) | [Zeph]({{<relref "/ref/zephaniah" >}}) | [Zech]({{<relref "/ref/zechariah" >}}) |
-| [Mal]({{<relref "/ref/malachi" >}}) |
+| [Gen]({{<relref "/ref/genesis" >}}) | [Ex]({{<relref "/ref/exodus" >}}) | [Lev]({{<relref "/ref/leviticus" >}}) | [Deut]({{<relref "/ref/deuteronomy" >}}) |
+| [Josh]({{<relref "/ref/joshua" >}}) | [1 Sam]({{<relref "/ref/1-samuel" >}}) | [2 Sam]({{<relref "/ref/2-samuel" >}}) | [1 Kgs]({{<relref "/ref/1-kings" >}}) |
+| [1 Chr]({{<relref "/ref/1-chronicles" >}}) | [2 Chr]({{<relref "/ref/2-chronicles" >}}) | [Job]({{<relref "/ref/job" >}}) | [Ps]({{<relref "/ref/psalms" >}}) |
+| [Prv]({{<relref "/ref/proverbs" >}}) | [Is]({{<relref "/ref/isaiah" >}}) | [Jer]({{<relref "/ref/jeremiah" >}}) | [Lam]({{<relref "/ref/lamentations" >}}) |
+| [Ezk]({{<relref "/ref/ezekiel" >}}) | [Joel]({{<relref "/ref/joel" >}}) | [Hab]({{<relref "/ref/habakkuk" >}}) | [Zeph]({{<relref "/ref/zephaniah" >}}) |
+| [Zech]({{<relref "/ref/zechariah" >}}) | [Mal]({{<relref "/ref/malachi" >}}) |
 
 **New Testament**
 |  |  |  |  |
