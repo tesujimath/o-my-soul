@@ -88,7 +88,7 @@ O my soul, do not think that you are owed any explanation for you are not. You a
 The secret things belong to the LORD our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
 {{< /quote >}}
 
-The secret things belong to the LORD our God.
+The secret things belong to the Lord our God.
 
 Nevertheless even though he was denied his explanation of why, Job was commended for pleading his case before the Lord.
 
