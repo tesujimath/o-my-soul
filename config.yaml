@@ -47,7 +47,13 @@ params:
     #tagCount: true
 
     comments:
-        enabled: false
+        enabled: true
+        provider: external
+
+        external:
+          description: "Discuss this in the O my Soul community"
+          url: "https://lemm.ee/c/reformed"
+          new: true
 
     widgets:
         enabled:

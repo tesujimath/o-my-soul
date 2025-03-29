@@ -1,0 +1,5 @@
+{{- with .Site.Params.comments.external -}}
+<div class="external-comments">
+    <span class="new-icon"><img src="/img/new-star.svg" height="32" width="32" /></span><span class="link"><a href="{{ .url }}">{{ .description }}</a></span>
+</div>
+{{ end }}
