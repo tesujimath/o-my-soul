@@ -24,3 +24,5 @@ Then Jesus told his disciples, “If anyone would come after me, let him deny hi
 All Scripture references are quoted from the ESV unless otherwise indicated.
 
 _O my Soul_ is also available as a podcast.
+
+All are welcome to join the discussion in the [O my Soul community](https://lemm.ee/c/omysoul).
