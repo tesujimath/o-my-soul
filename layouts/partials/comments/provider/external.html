@@ -1,7 +1,7 @@
 {{ if ($.InSection ($.Site.GetPage "/post")) -}}
 {{- with .Site.Params.comments.external -}}
 <div class="external-comments">
-    <span class="new-icon"><img src="/img/new-star.svg" height="32" width="32" /></span><span class="preamble">{{ .preamble }}</span><span class="link"><a href="{{ .url }}">{{ .title }}</a></span>
+    <span class="new-icon"><img src="/img/new-star.svg" height="32" width="32" /></span><span class="link">{{ .preamble }} <a href="{{ .url }}">{{ .title }}</a></span>
 </div>
 {{ end -}}
 {{ end -}}

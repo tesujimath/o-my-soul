@@ -51,7 +51,7 @@ params:
         provider: external
 
         external:
-          preamble: "Discuss this in the "
+          preamble: "Discuss this in the"
           title: "O my Soul community"
           url: "https://lemm.ee/c/omysoul"
           new: true

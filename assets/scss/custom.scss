@@ -1,4 +1,11 @@
 .external-comments {
+    display: flex;
+    align-items: center;
+
+    .new-icon {
+        margin-right: 8px;
+    }
+
     .link {
         a {
             box-shadow: 0px -2px 0px rgba(var(--link-background-color), var(--link-background-opacity)) inset;
