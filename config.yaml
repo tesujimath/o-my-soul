@@ -51,8 +51,9 @@ params:
         provider: external
 
         external:
-          description: "Discuss this in the O my Soul community"
-          url: "https://lemm.ee/c/reformed"
+          preamble: "Discuss this in the "
+          title: "O my Soul community"
+          url: "https://lemm.ee/c/omysoul"
           new: true
 
     widgets:
