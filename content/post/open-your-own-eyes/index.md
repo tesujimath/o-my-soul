@@ -4,7 +4,7 @@ title = "Open your own eyes"
 date = "2024-11-22T06:00:00+13:00"
 description = "That they may be enlightened"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/673d97affb161236f8256ba8.m4a", type = "audio/aac" }
-tags = [ "waiting", "personal holiness", "love" ]
+tags = [ "waiting", "holiness", "love" ]
 image = "ben-white-EMZxDosijJ4-unsplash.jpg"
 image_position_list = "50% 38%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Ben White on Unsplash](https://unsplash.com/photos/girls-left-hand-wrap-around-toddler-while-reading-book-during-golden-hour-EMZxDosijJ4)"
