@@ -7,8 +7,10 @@ on:
       - edited
       - synchronize
   schedule:
+    # Thursday 5.53pm UTC, which is Friday 5.53am NZST
+    - cron: '53 17 * * 4'
     # Thursday 4.53pm UTC, which is Friday 5.53am NZDT
-    - cron: '53 16 * * 4'
+    # - cron: '53 16 * * 4'
 
 jobs:
   merge_schedule:
