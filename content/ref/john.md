@@ -12,6 +12,7 @@ description: "Scripture index"
 | 3:16 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 3:16-17 | [Do not be angry<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/do-not-be-angry/index.md" >}}) |
 | 3:16-18 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
+| 3:19-21 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
 | 5:2-9 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 6:28-29 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 7:37-39 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
@@ -25,4 +26,5 @@ description: "Scripture index"
 | 13:34-35 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
 | 14:6 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
 | 14:12-14 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
+| 14:4-7,15-17,19-20 <br/> 15:14-15 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
 | 19:16-18,25 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |
