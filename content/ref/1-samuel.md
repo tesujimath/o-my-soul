@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 2:1,7-8 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
+| 2:1, 7-8 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |

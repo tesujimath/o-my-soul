@@ -6,8 +6,8 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 1:1-5,14 | [What child is this?<span style="font-size:smaller; padding-left:0.5em;">#31</span>]({{<relref "/post/what-child-is-this/index.md" >}}) |
-| 1:1-5,14 | [What do you want me to do for you?<span style="font-size:smaller; padding-left:0.5em;">#34</span>]({{<relref "/post/what-do-you-want-me-to-do-for-you/index.md" >}}) |
+| 1:1-5, 14 | [What child is this?<span style="font-size:smaller; padding-left:0.5em;">#31</span>]({{<relref "/post/what-child-is-this/index.md" >}}) |
+| 1:1-5, 14 | [What do you want me to do for you?<span style="font-size:smaller; padding-left:0.5em;">#34</span>]({{<relref "/post/what-do-you-want-me-to-do-for-you/index.md" >}}) |
 | 3:16 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
 | 3:16 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 3:16-17 | [Do not be angry<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/do-not-be-angry/index.md" >}}) |
@@ -26,5 +26,5 @@ description: "Scripture index"
 | 13:34-35 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
 | 14:6 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
 | 14:12-14 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
-| 14:4-7,15-17,19-20 <br/> 15:14-15 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
-| 19:16-18,25 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |
+| 14:4-7, 15-17, 19-20 <br/> 15:14-15 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
+| 19:16-18, 25 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |
