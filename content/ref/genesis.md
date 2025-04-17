@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:16 | [Cosmic power<span style="font-size:smaller; padding-left:0.5em;">#22</span>]({{<relref "/post/cosmic-power/index.md" >}}) |
 | 2:8-9, 15-17 <br/> 3:1-7, 17, 22-24 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
+| 3:14-15 | [The things that are revealed<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/the-things-that-are-revealed/index.md" >}}) |
 | 3:22-24 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 12:1, 7 | [The answer<span style="font-size:smaller; padding-left:0.5em;">#12</span>]({{<relref "/post/the-answer/index.md" >}}) |
 | 17:1 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
