@@ -4,7 +4,7 @@ title = "The problem with the parables"
 date = "2025-01-17T06:00:00+13:00"
 description = "The haves and the have-nots"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/6788bebe01331eb96727bb8f.m4a", type = "audio/aac" }
-tags = [ "prayer", "persistence", "faith", "gratitude" ]
+tags = [ "prayer", "faith", "gratitude", "mystery" ]
 image = "dev-asangbam-sJipHSttNXo-unsplash.jpg"
 image_position_list = "50% 15%"
 image_position_article = "50% 30%"

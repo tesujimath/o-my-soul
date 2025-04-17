@@ -23,6 +23,7 @@ description: "Scripture index"
 | 8:1-4 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 19:11 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 19:11 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
+| 20:1-3 | [The things that are revealed<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/the-things-that-are-revealed/index.md" >}}) |
 | 20:11-12 | [Do not be angry<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/do-not-be-angry/index.md" >}}) |
 | 21:1-4 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
 | 21:1-4 <br/> 22:1-5 | [The river of life<span style="font-size:smaller; padding-left:0.5em;">#37</span>]({{<relref "/post/the-river-of-life/index.md" >}}) |
