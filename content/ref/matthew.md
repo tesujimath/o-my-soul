@@ -10,6 +10,7 @@ description: "Scripture index"
 | 5:5 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 5:8 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 5:39 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
+| 5:43-45 | [Curse the accuser?<span style="font-size:smaller; padding-left:0.5em;">#49</span>]({{<relref "/post/curse-the-accuser/index.md" >}}) |
 | 5:27-28 <br/> 6:4, 6, 18 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 6:22-23 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 7:7-11 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
