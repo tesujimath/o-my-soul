@@ -13,4 +13,5 @@ description: "Scripture index"
 | 3:1-8 | [Be angry<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/be-angry/index.md" >}}) |
 | 3:3 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
 | 3:3 | [The answer<span style="font-size:smaller; padding-left:0.5em;">#12</span>]({{<relref "/post/the-answer/index.md" >}}) |
+| 3:12-13 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
 | 4:2-4 | [The open door<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/the-open-door/index.md" >}}) |
