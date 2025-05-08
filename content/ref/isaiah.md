@@ -12,6 +12,7 @@ description: "Scripture index"
 | 9:2, 6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 9:2-3, 6 | [What child is this?<span style="font-size:smaller; padding-left:0.5em;">#31</span>]({{<relref "/post/what-child-is-this/index.md" >}}) |
 | 12:2 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
+| 40:27-29 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 40:31 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 43:1, 3-4, 6-7 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
 | 43:16-19 <br/> 46:8-11 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |

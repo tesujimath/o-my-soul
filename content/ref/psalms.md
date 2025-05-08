@@ -15,6 +15,7 @@ description: "Scripture index"
 | 13:1-3, 5-6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 13:1-6 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
 | 19:7-11 | [Open your own eyes<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/open-your-own-eyes/index.md" >}}) |
+| 22:19-20 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 24:7-10 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 25:10 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 25:10 <br/> 26:1-3 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |

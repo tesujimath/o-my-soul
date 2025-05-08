@@ -15,4 +15,5 @@ description: "Scripture index"
 | 12:28-31 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 13:24-27, 32 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
 | 13:32-37 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
+| 14:61-62 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 15:22, 24, 33-34 | [The things that are revealed<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/the-things-that-are-revealed/index.md" >}}) |

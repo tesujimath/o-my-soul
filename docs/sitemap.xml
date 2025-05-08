@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://omysoul.faith/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/post/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/power/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/sovereignty/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/the-adequacy-of-god/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/trust/</loc>
+    <lastmod>2025-05-09T06:00:00+12:00</lastmod>
+  </url><url>
     <loc>https://omysoul.faith/tags/forgiveness/</loc>
     <lastmod>2025-05-02T06:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://omysoul.faith/</loc>
-    <lastmod>2025-05-02T06:00:00+12:00</lastmod>
-  </url><url>
     <loc>https://omysoul.faith/tags/pain/</loc>
-    <lastmod>2025-05-02T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/post/</loc>
     <lastmod>2025-05-02T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/pride/</loc>
     <lastmod>2025-05-02T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-sacrifice-of-forgiveness/</loc>
-    <lastmod>2025-05-02T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/</loc>
     <lastmod>2025-05-02T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/curse-the-accuser/</loc>
@@ -48,12 +60,6 @@
     <lastmod>2025-04-11T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/secrets/</loc>
-    <lastmod>2025-04-11T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/sovereignty/</loc>
-    <lastmod>2025-04-11T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/trust/</loc>
     <lastmod>2025-04-11T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/waiting/</loc>
@@ -138,9 +144,6 @@
     <lastmod>2025-02-21T06:00:00+13:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/fear-of-the-lord/</loc>
-    <lastmod>2025-02-14T06:00:00+13:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/power/</loc>
     <lastmod>2025-02-14T06:00:00+13:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-healing-of-the-nations/</loc>
