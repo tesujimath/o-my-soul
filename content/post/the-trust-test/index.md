@@ -4,7 +4,7 @@ title = "The trust test"
 date = "2024-06-25T06:30:00+12:00"
 description = "Do not fear, only believe"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/66729f52afdac9fcff43f575.m4a", type = "audio/aac" }
-tags = [ "doubt", "trust", "faith", "hope" ]
+tags = [ "doubt", "trust", "faith", "hope", "patience" ]
 image = "guzman-barquin-Qd688l1yDOI-unsplash.jpg"
 image_position_list = "50% 85%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Guzmán Barquín on Unsplash](https://unsplash.com/photos/sea-under-full-moon-Qd688l1yDOI)"

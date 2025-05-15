@@ -27,4 +27,4 @@ menu:
 | [Rom]({{<relref "/ref/romans" >}}) | [1 Cor]({{<relref "/ref/1-corinthians" >}}) | [2 Cor]({{<relref "/ref/2-corinthians" >}}) | [Gal]({{<relref "/ref/galatians" >}}) |
 | [Eph]({{<relref "/ref/ephesians" >}}) | [Phil]({{<relref "/ref/philippians" >}}) | [Col]({{<relref "/ref/colossians" >}}) | [1 Thes]({{<relref "/ref/1-thessalonians" >}}) |
 | [1 Tim]({{<relref "/ref/1-timothy" >}}) | [Heb]({{<relref "/ref/hebrews" >}}) | [Jam]({{<relref "/ref/james" >}}) | [1 Pet]({{<relref "/ref/1-peter" >}}) |
-| [1 Jn]({{<relref "/ref/1-john" >}}) | [Jude]({{<relref "/ref/jude" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
+| [2 Pet]({{<relref "/ref/2-peter" >}}) | [1 Jn]({{<relref "/ref/1-john" >}}) | [Jude]({{<relref "/ref/jude" >}}) | [Rev]({{<relref "/ref/revelation" >}}) |
