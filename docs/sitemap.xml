@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omysoul.faith/</loc>
-    <lastmod>2025-05-23T06:00:00+12:00</lastmod>
+    <loc>https://omysoul.faith/tags/foolishness/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://omysoul.faith/tags/pain/</loc>
-    <lastmod>2025-05-23T06:00:00+12:00</lastmod>
+    <loc>https://omysoul.faith/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/post/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/pride/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/the-enigma-of-solomon/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/wisdom/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/worldliness/</loc>
+    <lastmod>2025-05-30T06:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://omysoul.faith/tags/pain/</loc>
     <lastmod>2025-05-23T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/power/</loc>
@@ -18,9 +36,6 @@
     <lastmod>2025-05-23T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-power-of-the-tongue/</loc>
-    <lastmod>2025-05-23T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/</loc>
     <lastmod>2025-05-23T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/a-wondrous-reason/</loc>
@@ -48,9 +63,6 @@
     <lastmod>2025-05-09T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/forgiveness/</loc>
-    <lastmod>2025-05-02T06:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/pride/</loc>
     <lastmod>2025-05-02T06:00:00+12:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-sacrifice-of-forgiveness/</loc>
@@ -123,9 +135,6 @@
     <lastmod>2025-03-14T06:00:00+13:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/the-perils-of-worldliness/</loc>
-    <lastmod>2025-03-14T06:00:00+13:00</lastmod>
-  </url><url>
-    <loc>https://omysoul.faith/tags/worldliness/</loc>
     <lastmod>2025-03-14T06:00:00+13:00</lastmod>
   </url><url>
     <loc>https://omysoul.faith/tags/glory-of-god/</loc>
@@ -308,9 +317,6 @@
     <loc>https://omysoul.faith/what-to-think-about/</loc>
     <lastmod>2024-07-16T06:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://omysoul.faith/tags/wisdom/</loc>
-    <lastmod>2024-07-16T06:00:00+12:00</lastmod>
-  </url><url>
     <loc>https://omysoul.faith/plan-b/</loc>
     <lastmod>2024-07-09T06:00:00+12:00</lastmod>
   </url><url>
@@ -389,6 +395,8 @@
   </url><url>
     <loc>https://omysoul.faith/ref/deuteronomy/</loc>
   </url><url>
+    <loc>https://omysoul.faith/ref/ecclesiastes/</loc>
+  </url><url>
     <loc>https://omysoul.faith/ref/ephesians/</loc>
   </url><url>
     <loc>https://omysoul.faith/ref/exodus/</loc>
@@ -430,6 +438,8 @@
     <loc>https://omysoul.faith/ref/mark/</loc>
   </url><url>
     <loc>https://omysoul.faith/ref/matthew/</loc>
+  </url><url>
+    <loc>https://omysoul.faith/ref/micah/</loc>
   </url><url>
     <loc>https://omysoul.faith/ref/philippians/</loc>
   </url><url>
