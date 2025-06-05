@@ -26,6 +26,7 @@ description: "Scripture index"
 | 31:23-24 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 34:1, 11-16 | [The power of the tongue<span style="font-size:smaller; padding-left:0.5em;">#53</span>]({{<relref "/post/the-power-of-the-tongue/index.md" >}}) |
 | 34:1, 4-5, 18, 22 <br/> 37:5 | [A wondrous reason<span style="font-size:smaller; padding-left:0.5em;">#52</span>]({{<relref "/post/a-wondrous-reason/index.md" >}}) |
+| 34:18 <br/> 37:4 | [Everything beautiful in its time<span style="font-size:smaller; padding-left:0.5em;">#55</span>]({{<relref "/post/everything-beautiful-in-its-time/index.md" >}}) |
 | 37:5 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 37:5 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
 | 37:5 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |

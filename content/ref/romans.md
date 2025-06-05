@@ -16,6 +16,7 @@ description: "Scripture index"
 | 8:15 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 8:23-25 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
 | 8:24-25 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
+| 8:28 | [Everything beautiful in its time<span style="font-size:smaller; padding-left:0.5em;">#55</span>]({{<relref "/post/everything-beautiful-in-its-time/index.md" >}}) |
 | 8:28 | [Plan B<span style="font-size:smaller; padding-left:0.5em;">#8</span>]({{<relref "/post/plan-b/index.md" >}}) |
 | 8:28 <br/> 11:33 | [Levels of understanding<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/levels-of-understanding/index.md" >}}) |
 | 11:36 | [What child is this?<span style="font-size:smaller; padding-left:0.5em;">#31</span>]({{<relref "/post/what-child-is-this/index.md" >}}) |
