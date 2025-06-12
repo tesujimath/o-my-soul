@@ -49,7 +49,7 @@ Yet you are holy, enthroned on the praises of Israel. In you our fathers trusted
 
 Here is hope, and here are reasons for hope. Let's consider four reasons.
 
-Firstly and most obviously, the Lord is trustworthy. Those who went before us cried out to God, they trusted him, and he delivered them. He delivered them. They were not put to shame.
+Firstly and most obviously, the Lord is trustworthy. Those who went before us cried out to God, they trusted him, and he delivered them. _He delivered them_. They were not put to shame.
 
 {{< quote source="Malachi 3:6" url="/ref/malachi" >}}
 “For I the LORD do not change; therefore you, O children of Jacob, are not consumed.”
