@@ -17,3 +17,4 @@ description: "Scripture index"
 | 13:32-37 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 14:61-62 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 15:22, 24, 33-34 | [The things that are revealed<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/the-things-that-are-revealed/index.md" >}}) |
+| 15:22, 24, 33-34, 37-38 | [Why have you forsaken me?<span style="font-size:smaller; padding-left:0.5em;">#56</span>]({{<relref "/post/why-have-you-forsaken-me/index.md" >}}) |
