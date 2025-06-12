@@ -16,6 +16,7 @@ description: "Scripture index"
 | 13:1-6 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
 | 15:1-5 | [The power of the tongue<span style="font-size:smaller; padding-left:0.5em;">#53</span>]({{<relref "/post/the-power-of-the-tongue/index.md" >}}) |
 | 19:7-11 | [Open your own eyes<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/open-your-own-eyes/index.md" >}}) |
+| 22:1-5, 9-10, 12-18, 27-28, 30-31 | [Why have you forsaken me?<span style="font-size:smaller; padding-left:0.5em;">#56</span>]({{<relref "/post/why-have-you-forsaken-me/index.md" >}}) |
 | 22:19-20 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 24:7-10 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 25:10 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
