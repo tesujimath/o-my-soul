@@ -33,6 +33,7 @@ description: "Scripture index"
 | 37:5 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
 | 38:3-5, 10 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 42:2-6, 8, 10 <br/> 43:5 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
+| 45:1-8, 10-15, 17 | [A love song<span style="font-size:smaller; padding-left:0.5em;">#57</span>]({{<relref "/post/a-love-song/index.md" >}}) |
 | 46:1-7, 10 | [The river of life<span style="font-size:smaller; padding-left:0.5em;">#37</span>]({{<relref "/post/the-river-of-life/index.md" >}}) |
 | 50:23 <br/> 57:1, 4-5, 9-11 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
 | 57:2 | [Walk before me and be blameless<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/walk-before-me-and-be-blameless/index.md" >}}) |

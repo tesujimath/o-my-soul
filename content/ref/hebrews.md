@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 2:1 | [A love song<span style="font-size:smaller; padding-left:0.5em;">#57</span>]({{<relref "/post/a-love-song/index.md" >}}) |
 | 4:12-13 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 4:14-16 | [Blessed in the waiting<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/blessed-in-the-waiting/index.md" >}}) |
 | 9:22 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
