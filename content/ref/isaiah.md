@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:17 | [What to think about<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/what-to-think-about/index.md" >}}) |
 | 2:12, 17 <br/> 6:1-3 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
+| 6:5 | [Together<span style="font-size:smaller; padding-left:0.5em;">#58</span>]({{<relref "/post/together/index.md" >}}) |
 | 6:9-10 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 9:2, 6 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 9:2-3, 6 | [What child is this?<span style="font-size:smaller; padding-left:0.5em;">#31</span>]({{<relref "/post/what-child-is-this/index.md" >}}) |

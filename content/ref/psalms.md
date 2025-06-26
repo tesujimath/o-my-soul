@@ -42,6 +42,7 @@ description: "Scripture index"
 | 78:11-22, 31 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
 | 101:1-2 | [Walk before me and be blameless<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/walk-before-me-and-be-blameless/index.md" >}}) |
 | 103:1-5 | [New mercy<span style="font-size:smaller; padding-left:0.5em;">#33</span>]({{<relref "/post/new-mercy/index.md" >}}) |
+| 106:1-8, 13-14, 19-22, 24-25, 28-29, 34-36, 40-41, 43, 47 | [Together<span style="font-size:smaller; padding-left:0.5em;">#58</span>]({{<relref "/post/together/index.md" >}}) |
 | 109:1-4, 8-11, 13, 17-20, 22-26, 29 | [Curse the accuser?<span style="font-size:smaller; padding-left:0.5em;">#49</span>]({{<relref "/post/curse-the-accuser/index.md" >}}) |
 | 113:4-9 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 116:1-4, 15-17 | [The sacrifice of thanksgiving<span style="font-size:smaller; padding-left:0.5em;">#29</span>]({{<relref "/post/the-sacrifice-of-thanksgiving/index.md" >}}) |
