@@ -13,6 +13,7 @@ description: "Scripture index"
 | 5:43-45 | [Curse the accuser?<span style="font-size:smaller; padding-left:0.5em;">#49</span>]({{<relref "/post/curse-the-accuser/index.md" >}}) |
 | 5:27-28 <br/> 6:4, 6, 18 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 6:12, 14-15 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
+| 6:19-21 | [How to be rich<span style="font-size:smaller; padding-left:0.5em;">#60</span>]({{<relref "/post/how-to-be-rich/index.md" >}}) |
 | 6:22-23 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 7:7-11 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
 | 7:21-23 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |

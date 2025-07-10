@@ -12,6 +12,7 @@ description: "Scripture index"
 | 4:17-19 <br/> 5:18-20, 24-25 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 5:37-39 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 6:37-38 | [The dam on the river<span style="font-size:smaller; padding-left:0.5em;">#7</span>]({{<relref "/post/the-dam-on-the-river/index.md" >}}) |
+| 12:15-21, 33-36, 47-48 | [How to be rich<span style="font-size:smaller; padding-left:0.5em;">#60</span>]({{<relref "/post/how-to-be-rich/index.md" >}}) |
 | 12:16-34 | [On being looked after<span style="font-size:smaller; padding-left:0.5em;">#59</span>]({{<relref "/post/on-being-looked-after/index.md" >}}) |
 | 12:25 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
 | 15:10 | [Repent!<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/repent/index.md" >}}) |
