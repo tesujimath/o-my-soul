@@ -7,6 +7,7 @@ podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b
 tags = [ "holiness", "integrity", "reward" ]
 image = "chris-meads-VDHn0YmjIw4-unsplash.jpg"
 image_position_list = "50% 30%"
+image_anchor = "Center"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Chris Meads on Unsplash](https://unsplash.com/photos/sea-cliff-during-golden-hour-VDHn0YmjIw4)"
 +++
 
