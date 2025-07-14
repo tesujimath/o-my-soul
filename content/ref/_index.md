@@ -8,6 +8,7 @@ menu:
         weight: -65
         params:
             icon: book
+rss: false
 ---
 
 **Old Testament**
