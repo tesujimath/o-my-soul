@@ -1,7 +1,7 @@
 baseurl: https://omysoul.faith
 languageCode: en-gb
 theme: hugo-theme-stack
-paginate: 10
+pagination.pagerSize: 10
 title: O my Soul
 
 googleAnalytics: G-S0GQS98HNE
