@@ -10,6 +10,7 @@ description: "Scripture index"
 | 14:30-31 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 14:21, 30-31 <br/> 15:2 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
 | 16:4 | [The trust test<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/the-trust-test/index.md" >}}) |
+| 20:1-4, 7-8, 12-17 | [Love marks the spot<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/love-marks-the-spot/index.md" >}}) |
 | 30:22-25 | [A love song<span style="font-size:smaller; padding-left:0.5em;">#57</span>]({{<relref "/post/a-love-song/index.md" >}}) |
 | 31:18 <br/> 33:18 | [New mercy<span style="font-size:smaller; padding-left:0.5em;">#33</span>]({{<relref "/post/new-mercy/index.md" >}}) |
 | 33:17-18 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |

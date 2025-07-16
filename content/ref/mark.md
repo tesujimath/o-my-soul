@@ -13,6 +13,7 @@ description: "Scripture index"
 | 9:42-48 | [Do not be angry<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/do-not-be-angry/index.md" >}}) |
 | 11:15-18, 20-21 | [Be angry<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/be-angry/index.md" >}}) |
 | 12:28-31 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
+| 12:28-31 | [Love marks the spot<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/love-marks-the-spot/index.md" >}}) |
 | 13:24-27, 32 | [Secrets<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/secrets/index.md" >}}) |
 | 13:32-37 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 14:61-62 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |

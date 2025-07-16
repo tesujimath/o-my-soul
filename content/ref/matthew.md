@@ -23,5 +23,6 @@ description: "Scripture index"
 | 9:27-30 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 13:10-17 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 18:7, 15, 21-23 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
+| 19:16-30 | [Love marks the spot<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/love-marks-the-spot/index.md" >}}) |
 | 21:20-22 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
 | 25:31-46 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
