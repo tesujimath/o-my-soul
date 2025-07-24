@@ -11,6 +11,7 @@ description: "Scripture index"
 | 2:24 | [The enigma of Solomon<span style="font-size:smaller; padding-left:0.5em;">#54</span>]({{<relref "/post/the-enigma-of-solomon/index.md" >}}) |
 | 2:8-9, 15-17 <br/> 3:1-7, 17, 22-24 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
 | 3:14-15 | [The things that are revealed<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/the-things-that-are-revealed/index.md" >}}) |
+| 3:17-19 | [The entitlement trap<span style="font-size:smaller; padding-left:0.5em;">#62</span>]({{<relref "/post/the-entitlement-trap/index.md" >}}) |
 | 3:22-24 | [Enduring in love<span style="font-size:smaller; padding-left:0.5em;">#15</span>]({{<relref "/post/enduring-in-love/index.md" >}}) |
 | 6:5-9 | [A wondrous reason<span style="font-size:smaller; padding-left:0.5em;">#52</span>]({{<relref "/post/a-wondrous-reason/index.md" >}}) |
 | 12:1, 7 | [The answer<span style="font-size:smaller; padding-left:0.5em;">#12</span>]({{<relref "/post/the-answer/index.md" >}}) |
