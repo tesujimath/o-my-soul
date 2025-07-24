@@ -24,5 +24,6 @@ description: "Scripture index"
 | 13:10-17 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
 | 18:7, 15, 21-23 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
 | 19:16-30 | [Love marks the spot<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/love-marks-the-spot/index.md" >}}) |
+| 19:29-30 <br/> 20:3-16 | [The entitlement trap<span style="font-size:smaller; padding-left:0.5em;">#62</span>]({{<relref "/post/the-entitlement-trap/index.md" >}}) |
 | 21:20-22 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
 | 25:31-46 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |

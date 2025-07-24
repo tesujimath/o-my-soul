@@ -4,7 +4,7 @@ title = "Self-satisfied and delusional"
 date = "2024-10-11T06:00:00+13:00"
 description = "But nevertheless invited to repent"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/6707898c2d029add2c5bca4f.m4a", type = "audio/aac" }
-tags = [ "pride", "repentance" ]
+tags = [ "pride", "self-interest", "repentance" ]
 image = "nick-fewings-XpG9JaN_SXQ-unsplash.jpg"
 image_position_list = "50% 45%"
 image_anchor = "Center"
