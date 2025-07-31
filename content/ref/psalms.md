@@ -20,12 +20,14 @@ description: "Scripture index"
 | 22:19-20 | [The adequacy of God<span style="font-size:smaller; padding-left:0.5em;">#51</span>]({{<relref "/post/the-adequacy-of-god/index.md" >}}) |
 | 24:7-10 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 25:10 | [Hope in God<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/hope-in-god/index.md" >}}) |
+| 25:16 | [Alone<span style="font-size:smaller; padding-left:0.5em;">#63</span>]({{<relref "/post/alone/index.md" >}}) |
 | 25:10 <br/> 26:1-3 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |
 | 31:7-8 | [The ordinariness of the spiritual battle<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/the-ordinariness-of-the-spiritual-battle/index.md" >}}) |
 | 31:9-10 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 31:23 | [Humility before honour<span style="font-size:smaller; padding-left:0.5em;">#42</span>]({{<relref "/post/humility-before-honour/index.md" >}}) |
 | 31:23-24 | [A new thing<span style="font-size:smaller; padding-left:0.5em;">#25</span>]({{<relref "/post/a-new-thing/index.md" >}}) |
 | 34:1, 11-16 | [The power of the tongue<span style="font-size:smaller; padding-left:0.5em;">#53</span>]({{<relref "/post/the-power-of-the-tongue/index.md" >}}) |
+| 34:3 | [Alone<span style="font-size:smaller; padding-left:0.5em;">#63</span>]({{<relref "/post/alone/index.md" >}}) |
 | 34:1, 4-5, 18, 22 <br/> 37:5 | [A wondrous reason<span style="font-size:smaller; padding-left:0.5em;">#52</span>]({{<relref "/post/a-wondrous-reason/index.md" >}}) |
 | 34:18 <br/> 37:4 | [Everything beautiful in its time<span style="font-size:smaller; padding-left:0.5em;">#55</span>]({{<relref "/post/everything-beautiful-in-its-time/index.md" >}}) |
 | 37:5 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |

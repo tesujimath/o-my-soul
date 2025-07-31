@@ -22,6 +22,7 @@ description: "Scripture index"
 | 9:27-30 | [Pick up your mat<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/pick-up-your-mat/index.md" >}}) |
 | 9:27-30 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 13:10-17 | [The problem with the parables<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/the-problem-with-the-parables/index.md" >}}) |
+| 14:23 | [Alone<span style="font-size:smaller; padding-left:0.5em;">#63</span>]({{<relref "/post/alone/index.md" >}}) |
 | 18:7, 15, 21-23 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
 | 19:16-30 | [Love marks the spot<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/love-marks-the-spot/index.md" >}}) |
 | 19:29-30 <br/> 20:3-16 | [The entitlement trap<span style="font-size:smaller; padding-left:0.5em;">#62</span>]({{<relref "/post/the-entitlement-trap/index.md" >}}) |
