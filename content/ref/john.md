@@ -25,6 +25,7 @@ description: "Scripture index"
 | 10:10 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
 | 11:32-36 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 12:23-26 <br/> 13:36-38 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
+| 13:34-35 | [Alone<span style="font-size:smaller; padding-left:0.5em;">#63</span>]({{<relref "/post/alone/index.md" >}}) |
 | 13:34-35 | [Self-satisfied and delusional<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/self-satisfied-and-delusional/index.md" >}}) |
 | 14:6 | [Three trees<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/three-trees/index.md" >}}) |
 | 14:12-14 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
