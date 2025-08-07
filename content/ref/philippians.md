@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 1:6 | [After midnight<span style="font-size:smaller; padding-left:0.5em;">#64</span>]({{<relref "/post/after-midnight/index.md" >}}) |
 | 1:6, 9-11 | [Created for his glory<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/created-for-his-glory/index.md" >}}) |
 | 1:9-11 | [A pure heart<span style="font-size:smaller; padding-left:0.5em;">#10</span>]({{<relref "/post/a-pure-heart/index.md" >}}) |
 | 1:9-11 | [Walk before me and be blameless<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/walk-before-me-and-be-blameless/index.md" >}}) |
