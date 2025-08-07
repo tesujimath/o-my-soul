@@ -28,3 +28,4 @@ description: "Scripture index"
 | 19:29-30 <br/> 20:3-16 | [The entitlement trap<span style="font-size:smaller; padding-left:0.5em;">#62</span>]({{<relref "/post/the-entitlement-trap/index.md" >}}) |
 | 21:20-22 | [When God does not act<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/when-god-does-not-act/index.md" >}}) |
 | 25:31-46 | [Through the fire<span style="font-size:smaller; padding-left:0.5em;">#30</span>]({{<relref "/post/through-the-fire/index.md" >}}) |
+| 27:45-54 | [After midnight<span style="font-size:smaller; padding-left:0.5em;">#64</span>]({{<relref "/post/after-midnight/index.md" >}}) |

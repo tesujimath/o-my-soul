@@ -9,6 +9,7 @@ description: "Scripture index"
 | 3:23-24 | [Together<span style="font-size:smaller; padding-left:0.5em;">#58</span>]({{<relref "/post/together/index.md" >}}) |
 | 5:1-5 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
 | 5:11, 17 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
+| 6:6-7 | [After midnight<span style="font-size:smaller; padding-left:0.5em;">#64</span>]({{<relref "/post/after-midnight/index.md" >}}) |
 | 6:16 | [Small victories?<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/small-victories/index.md" >}}) |
 | 6:22-23 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 7:14-15, 21-25 | [Approaching holiness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/approaching-holiness/index.md" >}}) |
