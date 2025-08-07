@@ -5,9 +5,10 @@ date = "2025-08-08T06:00:00+12:00"
 description = "Well beyond the eleventh hour"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/68941839b84a51f51254a116.m4a", type = "audio/aac" }
 tags = [ "waiting", "trust", "holiness", "transformation" ]
-image = "graddes-fcavMQtHIXg-unsplash.jpg"
-image_position_list = "50% 50%"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Graddes on Unsplash](https://unsplash.com/photos/a-person-walking-down-a-street-at-night-fcavMQtHIXg)"
+image = "alexandru-vicol-D9FQYwAclwQ-unsplash.jpg"
+image_position_list = "50% 100%"
+image_position_article = "50% 100%"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [alexandru vicol on Unsplash](https://unsplash.com/photos/grayscale-photo-of-people-walking-on-street-D9FQYwAclwQ)"
 +++
 
 O my soul,
