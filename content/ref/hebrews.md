@@ -12,6 +12,7 @@ description: "Scripture index"
 | 9:22 | [The sacrifice of forgiveness<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/the-sacrifice-of-forgiveness/index.md" >}}) |
 | 9:24-26 | [Locusts<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/locusts/index.md" >}}) |
 | 9:1-5 <br/> 10:19-25 | [After midnight<span style="font-size:smaller; padding-left:0.5em;">#64</span>]({{<relref "/post/after-midnight/index.md" >}}) |
+| 10:12-18, 24-25 | [Already perfected<span style="font-size:smaller; padding-left:0.5em;">#65</span>]({{<relref "/post/already-perfected/index.md" >}}) |
 | 10:23 | [This is the day!<span style="font-size:smaller; padding-left:0.5em;">#2</span>]({{<relref "/post/this-is-the-day/index.md" >}}) |
 | 10:36 | [My strength is almost gone<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/my-strength-is-almost-gone/index.md" >}}) |
 | 11:35-37 | [Do not love your life<span style="font-size:smaller; padding-left:0.5em;">#16</span>]({{<relref "/post/do-not-love-your-life/index.md" >}}) |
