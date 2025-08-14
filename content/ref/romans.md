@@ -14,6 +14,7 @@ description: "Scripture index"
 | 6:22-23 | [Light up my eyes<span style="font-size:smaller; padding-left:0.5em;">#26</span>]({{<relref "/post/light-up-my-eyes/index.md" >}}) |
 | 7:14-15, 21-25 | [Approaching holiness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/approaching-holiness/index.md" >}}) |
 | 7:18 | [Walk before me and be blameless<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/walk-before-me-and-be-blameless/index.md" >}}) |
+| 7:14-20 <br/> 8:13 | [Already perfected<span style="font-size:smaller; padding-left:0.5em;">#65</span>]({{<relref "/post/already-perfected/index.md" >}}) |
 | 7:15-25 <br/> 8:1-6, 10-11 | [Humbled by stumbling<span style="font-size:smaller; padding-left:0.5em;">#44</span>]({{<relref "/post/humbled-by-stumbling/index.md" >}}) |
 | 8:15 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
 | 8:23-25 | [The turning point<span style="font-size:smaller; padding-left:0.5em;">#11</span>]({{<relref "/post/the-turning-point/index.md" >}}) |

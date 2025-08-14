@@ -4,7 +4,7 @@ title = "What to think about"
 date = "2024-07-16T06:00:00+12:00"
 description = "That which is true, just, and worthy of praise"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/669365cbade4ffab3efc7ada.m4a", type = "audio/aac" }
-tags = [ "wisdom", "discipline", "praise" ]
+tags = [ "wisdom", "encouragement", "discipline", "praise" ]
 related = [ "/post/the-dam-on-the-river/index.md" ]
 image = "redd-f-LP3PabHuyiE-unsplash.jpg"
 image_position_list = "50% 40%"
