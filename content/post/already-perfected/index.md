@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Already perfected"
 date = "2025-08-15T06:00:00+12:00"
 description = "Even while still being sanctified"
-podcast = { url = "apologies.m4a", type = "audio/aac" }
+podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/68a559f5352b565deb7af984.m4a", type = "audio/aac" }
 tags = [ "encouragement", "sanctification", "holiness" ]
 image = "tanja-tepavac-cWMhxNmQVq0-unsplash.jpg"
 image_position_list = "50% 50%"
