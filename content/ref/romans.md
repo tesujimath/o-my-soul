@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 3:23-24 | [Knitting<span style="font-size:smaller; padding-left:0.5em;">#66</span>]({{<relref "/post/knitting/index.md" >}}) |
 | 3:23-24 | [Together<span style="font-size:smaller; padding-left:0.5em;">#58</span>]({{<relref "/post/together/index.md" >}}) |
 | 5:1-5 | [That was yesterday<span style="font-size:smaller; padding-left:0.5em;">#3</span>]({{<relref "/post/that-was-yesterday/index.md" >}}) |
 | 5:11, 17 | [Fooled by our own reputation<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/fooled-by-our-own-reputation/index.md" >}}) |
