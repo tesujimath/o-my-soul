@@ -4,7 +4,7 @@ title = "Plan B"
 date = "2024-07-09T06:00:00+12:00"
 description = "Making beauty from the ashes"
 podcast = { url = "https://open.acast.com/public/streams/66581358904d0700135a43b5/episodes/668a5656fc882c395b60f260.m4a", type = "audio/aac" }
-tags = [ "disappointment", "failure", "rescue", "sovereignty" ]
+tags = [ "disappointment", "failure", "rescue", "restoration", "sovereignty" ]
 image = "senjuti-kundu-JfolIjRnveY-unsplash.jpg"
 image_position_list = "50% 40%"
 image_position_article = "50% 65%"
