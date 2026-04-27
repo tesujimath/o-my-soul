@@ -47,7 +47,7 @@ params:
     #tagCount: true
 
     comments:
-        enabled: true
+        enabled: false
         provider: external
 
         external:
